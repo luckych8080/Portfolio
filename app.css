@@ -37,8 +37,8 @@ body{
 }
 
 .b-section-3 img:hover{
-    transition: transform 2s;
+    transition: transform 0.5s;
     box-shadow: 0 0.5em 0.5em 0.5em #c4c1c1;
-    transform: translateY(-0.25em);
+    transform: translateY(-0.2em);
     cursor: pointer;
 }
