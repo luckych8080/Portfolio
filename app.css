@@ -1,0 +1,44 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    /* background: linear-gradient(93deg, #fff8fa, #a09f9fec); */
+    max-width: 1150px;
+    margin: auto;
+    
+}
+
+.head-name{
+    font-family: 'Playfair Display', serif;
+    font-size: x-large;
+}
+
+.day{
+    color: #808B96 ;
+}
+
+.day:hover{
+    color: #000;
+}
+
+.text-c1{
+    color: #000;
+    text-decoration: none;
+    font-family: 'Kaisei Tokumin', serif;
+    font-weight: 700;
+}
+
+.b-section-3{
+    border-style: none;
+    /* box-shadow: 0 0.5em 0.5em 0.5em #cfcbcbc9; */
+
+}
+
+.b-section-3 img{
+    box-shadow: 0 0.5em 1em 0.5em #d1d1d1;
+}
+
+.b-section-3 img:hover{
+    transition: transform 2s;
+    box-shadow: 0 0.5em 0.5em 0.5em #c4c1c1;
+    transform: translateY(-0.25em);
+    cursor: pointer;
+}
