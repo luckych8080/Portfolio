@@ -1,8 +1,10 @@
 body{
     font-family: 'Montserrat', sans-serif;
-    /* background: linear-gradient(93deg, #fff8fa, #a09f9fec); */
+    /* background: linear-gradient(180deg, #fff8fa, #a09f9fec); */
     max-width: 1150px;
     margin: auto;
+    /* background-color: rgb(17,18,22);
+    color: #fff; */
     
 }
 
@@ -28,8 +30,9 @@ body{
 
 .b-section-3{
     border-style: none;
-    /* box-shadow: 0 0.5em 0.5em 0.5em #cfcbcbc9; */
-
+    /* background: linear-gradient(180deg, #fff8fa, #a09f9fec); */
+    /* background-color: rgb(17,18,22);
+    color: #fff; */
 }
 
 .b-section-3 img{
