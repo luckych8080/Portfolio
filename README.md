@@ -1,5 +1,9 @@
-# Portfolio
+# Old Portfolio
 
-https://luckych8080.netlify.app/
+Snapshots of the project 👇
 
-My personal Portfolio. 
+
+![img](imgs/ss/1.png)
+![img](imgs/ss/2.png)
+![img](imgs/ss/3.png)
+![img](imgs/ss/4.png)
